@@ -1,0 +1,5 @@
+mvnMirrorUrl=http://localhost:8081/nexus
+mvnMirrorUsername=username
+mvnMirrorPassword=password
+mvnMirrorUploadUsername=uploadUsername
+mvnMirrorUploadPassword=uploadPassword
